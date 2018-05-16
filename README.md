@@ -6,9 +6,13 @@ Play Rock, Paper, Scissors through your browser console!
 * Game is played through console
 * Basic web page
 
-## Coming soon (possibly):
+## Second version :
 * Browser GUI for the game to be played on the web page
 * Nicer web page (style-wise)
+
+## Coming soon (possibly):
+* Even nicer GUI
+* Only have it for 5 rounds
 
 ## Technologies used:
 * HTML5
